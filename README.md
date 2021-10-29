@@ -29,3 +29,6 @@ Index2  Mod2(n)
 n  Mod2(n)
 Index1  Mod2(n)
 Print list 
+
+
+https://scratch.mit.edu/projects/589510022
