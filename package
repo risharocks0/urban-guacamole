@@ -1,0 +1,12 @@
+package com.yakindu.core;
+
+/**
+ * Interface for cycle-based state machines.
+ */
+public interface ICycleBased {
+
+	/**
+	* Start a run-to-completion cycle.
+	*/
+	public void runCycle();
+}
