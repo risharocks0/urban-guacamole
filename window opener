@@ -1,0 +1,6 @@
+
+import pygame
+pygame.init()
+window = pygame.display.set_mode([1010, 573])
+
+pygame.time.wait(5000)
