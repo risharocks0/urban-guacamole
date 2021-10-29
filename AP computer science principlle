@@ -1,0 +1,25 @@
+Example
+Step Result
+Start Blank
+Ask user for which
+website he is using
+gmail
+Change the answer into
+numbers
+corresponding to the
+order of the alphabet
+7131912
+Ask the user’s
+Birthday(MM/DD)
+1119
+Combine the changed
+1st answer and the new
+answer and put the last
+letter of the website
+between the two
+answers
+7131912l1119
+Ask if they got all the
+information Right
+Yes
+Display password 7131912l1119
