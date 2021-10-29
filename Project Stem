@@ -1,0 +1,8 @@
+Algorithms
+1. Ask for user which website he is using
+2. Change the answer into numbers corresponding to the order of the alphabet
+3. Ask the user’s birthday
+4. Combine the 1st answer and the 2nd answer and put the last alphabet of the website
+name between those two answers
+5. Ask if they got all the information right
+6. If yes show them the final password
